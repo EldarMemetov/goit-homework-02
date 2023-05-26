@@ -63,11 +63,7 @@ body {
   color: #404bbf;
 }
 
-.mail {
-  color: var(--contact-color);
-}
-
-.tel {
+.tel-mail {
   color: var(--contact-color);
 }
 
@@ -93,9 +89,8 @@ body {
   background-color: #4d5ae5;
   cursor: pointer;
 }
-.button-order :hover,
-.button-order :focus {
-  background-color: #404bbf;
+.button-order:hover,
+.button-order:focus {
   background-color: #404bbf;
 }
 
@@ -144,7 +139,7 @@ body {
   letter-spacing: 0.02em;
   text-transform: capitalize;
 }
-.list-team h3 {
+.name-team {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
@@ -154,7 +149,7 @@ body {
   letter-spacing: 0.02em;
 }
 
-.list-team p {
+.profession-team {
   font-size: 16px;
   line-height: 1.5;
   color: var(--poragraf-color);

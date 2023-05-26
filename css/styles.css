@@ -96,6 +96,7 @@ body {
 .button-order :hover,
 .button-order :focus {
   background-color: #404bbf;
+  background-color: #404bbf;
 }
 
 .info-skills {
@@ -106,7 +107,7 @@ body {
   letter-spacing: 0.02em;
 }
 
-.skills-list h3 {
+.main-list-info {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -114,7 +115,7 @@ body {
   letter-spacing: 0.02em;
 }
 
-.skills-list p {
+.info-main {
   font-size: 16px;
   line-height: 1.5;
   color: var(--poragraf-color);
